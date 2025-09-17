@@ -23,5 +23,7 @@ Bij het start van het spel kan elke speler maximum twee obstakels plaatsen. Pion
 
 _Afbeeldingen en foto's van:_ \
 _- het speelbord_\
+   ![Speelbord](https://media.discordapp.net/attachments/1417513343316656240/1417928855443738755/IMG_3483.jpg?ex=68cc44a6&is=68caf326&hm=82a69fa36565f5f7f5d0382a90f3d4cc8416a6b635587d7ef66734fb8d2d2daa&format=webp&width=726&height=968)
+   
 _- een 'normale' setup aan het begin van het spel_\
 _- een voorbeeld van een speler die gewonnen is_
