@@ -11,7 +11,7 @@ Een kort bordspel waarin twee teams (van telkens twee spelers) om de beurt hun p
 
 * Een **20x10** verdeeld bord/blad
 * Een apart speelveld van twee A3-bladen (zie bijlage/foto)
-* Min. 8 obstakels
+* Min. 12 obstakels
 
 ---
 
@@ -24,9 +24,9 @@ Beweeg je pionnen naar de overkant van het speelveld. Het eerste team dat dit lu
 * Elke speler start in een **hoek** van het bord.
 * Spelers van hetzelfde team beginnen samen aan dezelfde smalle zijde (de korte kant) van het bord. 
 * Elke speler heeft maar **1 pion**.
-* Elk team plaatst **4 obstakels** op het bord
+* Elk team plaatst **6 obstakels** op het bord
   * Een rij of kolom mag maximaal 4 obstakels hebben.
-  * Obstakels mogen niet naast andere obstakels geplaatst worden.
+  * Obstakels mogen niet naast andere obstakels geplaatst worden, zelfs niet diagonaal.
   * Obstakels mogen niet op de finishlijn geplaatst worden.
 
 ### Beweging
@@ -40,7 +40,7 @@ Beweging op het speelbord wordt bepaald door het schietspel met schijfjes.
 4. Zo gaat het verder totdat iedereen geschoten heeft  
 5. In de volgende rondes wisselt het startende team telkens om beurt.  
 6. De punten op het speelveld bepalen hoeveel stappen elk team op het bord mag zetten.
-7. (Een team mag in plaats van stappen te gebruiken ook 1 obstakel verplaatsen. Dit kost 2 stappen.)
+7. (Een team mag in plaats van stappen te gebruiken ook 1 (of meer) obstakel(s) verplaatsen. Dit kost 4 stappen elk.)
 
 #### Puntentelling
 * Het speelveld heeft twee kanten:  
