@@ -18,7 +18,7 @@ Een kort bordspel waarin twee teams (van telkens twee spelers) om de beurt hun p
 ### Spelgids
 
 ### Doel
-Beweeg je pionnen naar de overkant van het speelveld. Het eerste team dat dit lukt, wint.  
+Beweeg je pionnen naar de overkant van het speelveld. Het eerste team waarbij dit lukt, wint.
 
 ### Startopstelling
 * Elke speler start in een **hoek** van het bord.
@@ -55,7 +55,7 @@ Beweging op het speelbord wordt bepaald door het schietspel met schijfjes.
   * Delen van de schijf mogen dus over de grens van een ander gebied liggen.  
 
 ### Verplaatsen van pionnen
-* De team dat de meeste stappen hebben gewonnen, gaan eerst.
+* Het team dat de meeste stappen heeft gewonnen, gaat eerst.
 * Bij evenveel stappen doe je schaar/steen/papier, winnaar gaat eerst.
 * De totale punten van een team worden per ronde verdeeld over hun pionnen.  
   * Voorbeeld: bij 7 punten → verdeling 3/4, 6/1, 2/5, enz...
@@ -73,13 +73,12 @@ Beweging op het speelbord wordt bepaald door het schietspel met schijfjes.
 ### Einde
 * Het spel eindigt wanneer een pion tot aan de overkant geraakt, dat team wint dan.
 
-
 ### Bijlages TODO!
 
 _Afbeeldingen en foto's van:_ \
 _- het speelbord_\
-   ![Speelbord](https://media.discordapp.net/attachments/1417513343316656240/1417928855443738755/IMG_3483.jpg?ex=68cc44a6&is=68caf326&hm=82a69fa36565f5f7f5d0382a90f3d4cc8416a6b635587d7ef66734fb8d2d2daa&format=webp&width=726&height=968)\
-   _- het speelbord waar de punten worden bepaald_\
-   ![SpeelbordAlt](https://media.discordapp.net/attachments/1417513343316656240/1420446594712731752/IMG_3499.jpg?ex=68d56d7a&is=68d41bfa&hm=ad9373a07de37ee64d045de97bdf5670e63b7b0ab3f1919f47c98f7c26a2ccb5&=&width=698&height=930)\
+<img src="https://github.com/user-attachments/assets/1acd3a21-7a23-47b0-8d21-c36559536ba7" alt="Speelbord" style="width:25%; height:auto;"><br>
+_- het speelbord waar de punten worden bepaald_\
+<img src="https://media.discordapp.net/attachments/1417513343316656240/1420446594712731752/IMG_3499.jpg?ex=68d56d7a&is=68d41bfa&hm=ad9373a07de37ee64d045de97bdf5670e63b7b0ab3f1919f47c98f7c26a2ccb5&=&width=698&height=930" alt="SpeelbordAlt" style="width:25%; height:auto;"><br>
 _- een 'normale' setup aan het begin van het spel_\
 _- een voorbeeld van een speler die gewonnen is_
