@@ -5,20 +5,74 @@
 Nathan Cordier, Robbe Augustyns, Wimme Van De Voorde, Angeles Osier
 
 ### Korte samenvatting
-Het is een kort bordspel waar twee teams (van twee spelers) om de beurt pionnen verplaatsen naar de andere kant van het speelterrein. 
+Een kort bordspel waarin twee teams (van telkens twee spelers) om de beurt hun pionnen naar de overkant van het speelterrein proberen te verplaatsen.  
 
 ### Materiaal
 
-* Een 20x10 verdeeld bord/blad
+* Een **20x10** verdeeld bord/blad
 * Een apart speelveld van twee A3-bladen (zie bijlage/foto)
 * Min. 8 obstakels
 
+---
+
 ### Spelgids
 
-Twee teams (van twee spelers) starten aan één van de lange kanten van het terrein en proberen zo snel mogelijk naar de andere kant te gaan. Het aantal plaatsen wordt bepaald door kleine schijfjes over een apart speelterrein te schieten en ze te laten landen op een vak dat een bepaald aantal punten waard is. Kleinere en verdere vakken zijn meer punten waard dan groote, dichtere vakken. Het aantal behaalde punten is het totaal voor dat team die ronde, en je mag zelf bepalen hoe dit punt verdeeld word over je pionnen. Als jouw team bv. 7 punten behaalt, mag je oftewel 3/4, 6/1, 2/5,... kiezen tussen de twee pionnen. De spelers bepalen zelf in welke richting de pion gaat. Je mag alleen één richting uit per beurt (dus niet één vak naar rechts en dan twee naar boven. Een pion kan zich voortbewegen op een rij of kolom, maar niet diagonaal.
-<br><br>
-Bij de start van het spel moet elk team 4 obstakels plaatsen. Er mogen maximum 4 obstakels per rij en kolom zijn en mogen niet naast elkaar staan. Een team mag ook kiezen om één obstakel van keuze te verplaatsen naar ergens anders. Dit trekt 2 punten van je totaal af. Je mag dus minder stappen zetten als je kiest om een obstakel te verplaatsen. Pionnen mogen deze obstakels niet oversteken en moeten hun resterende plaatsen terug bewegen (backtrack). Als je met een worp exact uitkomt op een obstakel, mag je die richting niet uit en kies je de andere richting. Gooi je bijvoorbeeld vijf en komt je pion een obstakel tegen op zijn derde stap, moet die twee stappen terug naar achter. Obstakels mogen niet rond het midden en bij het startpunt van anderen gezet worden. Wanneer een pion over een andere gaat, wordt deze geëlimineerd en krijgt de andere speler deze pion. <br><br>
-Het spel eindigt wanneer een pion van een team de andere kant heeft gehaald. Dat team wint.
+### Doel
+Beweeg je pionnen naar de overkant van het speelveld. Het eerste team dat dit lukt, wint.  
+
+### Startopstelling
+* Elke speler start in een **hoek** van het bord.
+* Spelers van hetzelfde team beginnen samen aan dezelfde smalle zijde (de korte kant) van het bord. 
+* Elke speler heeft maar **1 pion**.
+* Elk team plaatst **4 obstakels** op het bord
+  * Een rij of kolom mag maximaal 4 obstakels hebben.
+  * Obstakels mogen niet naast andere obstakels geplaatst worden.
+  * Obstakels mogen niet op de finishlijn geplaatst worden.
+
+### Beweging
+
+Beweging op het speelbord wordt bepaald door het schietspel met schijfjes.
+
+#### Verloop van een ronde
+1. Elke speler legt een schijf in een hoek van het aparte speelveld.  
+2. De jongste speler begint in de eerste ronde en flickt zijn/haar schijf.  
+3. Daarna speelt iemand van het andere team  
+4. Zo gaat het verder totdat iedereen geschoten heeft  
+5. In de volgende rondes wisselt het startende team telkens om beurt.  
+6. De punten op het speelveld bepalen hoeveel stappen elk team op het bord mag zetten.
+7. (Een team mag in plaats van stappen te gebruiken ook 1 obstakel verplaatsen. Dit kost 2 stappen.)
+
+#### Puntentelling
+* Het speelveld heeft twee kanten:  
+  * **Zwarte kant**: ligt het verst van het zwarte team.  
+  * **Blauwe kant**: ligt het verst van het blauwe team.  
+* Wanneer een schijf op een genummerd gebied landt:  
+  * Het team waarvan die zijde is, krijgt het aantal aangegeven stappen.  
+  * Dit geldt ook voor de schijven van het andere team.  
+* Gaat een schijf van het speelveld af:  
+  * Het tegenovergestelde team krijgt 1 stap bonus per schijf die door de ander van het bord werd geschoten.  
+* De positie wordt bepaald door het midden van de schijf.  
+  * Delen van de schijf mogen dus over de grens van een ander gebied liggen.  
+
+### Verplaatsen van pionnen
+* De team dat de meeste stappen hebben gewonnen, gaan eerst.
+* Bij evenveel stappen doe je schaar/steen/papier, winnaar gaat eerst.
+* De totale punten van een team worden per ronde verdeeld over hun pionnen.  
+  * Voorbeeld: bij 7 punten → verdeling 3/4, 6/1, 2/5, enz...
+* Pionnen bewegen in één rechte richting per beurt (horizontaal of verticaal, niet diagonaal).  
+* Obstakels kunnen niet overgestoken worden:  
+  * Wordt een obstakel geraakt tijdens een stap, dan moet de pion de overige stappen terugzetten.  
+  * Kom je exact op een obstakel uit, mag die richting niet gekozen worden.
+* De muur telt als een obstakel.
+* Pionnen mogen niet over andere pionnen stappen.
+
+### Eliminatie
+* Als je pion op een andere pion stapt, moet die terug naar hun startpunt.
+* Een pion die stapt op een andere pion mag niet meer stappen nemen.
+
+### Einde
+* Het spel eindigt wanneer een pion tot aan de overkant geraakt, dat team wint dan.
+
 
 ### Bijlages TODO!
 
