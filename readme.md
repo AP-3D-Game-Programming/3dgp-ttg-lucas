@@ -55,7 +55,6 @@ Beweging op het speelbord wordt bepaald door het schietspel met schijfjes.
   * Delen van de schijf mogen dus over de grens van een ander gebied liggen.  
 
 ### Verplaatsen van pionnen
-* Het team dat de meeste stappen heeft gewonnen, gaat eerst.
 * Bij evenveel stappen doe je schaar/steen/papier, winnaar gaat eerst.
 * De totale punten van een team worden per ronde verdeeld over hun pionnen.  
   * Voorbeeld: bij 7 punten → verdeling 3/4, 6/1, 2/5, enz...
