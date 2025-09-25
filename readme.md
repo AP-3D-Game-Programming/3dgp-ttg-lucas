@@ -1,4 +1,4 @@
-## Naam van het spel: {{{{{NAAM}}}}}}
+## Naam van het spel: Touchdown
 
 ### Ontwikkelaars
 
